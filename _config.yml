@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Haoran Luo"
-description              : "Ph.D. Student from School of Computer Science, BUPT, Beijing."
-repository               : "LHRLAB/haoranluo.github.io"
+description              : "Ph.D. Student from School of Computer Science, Beijing University of Posts and Telecommunications, Beijing."
+repository               : "LHRLAB/lhrlab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "Haoran Luo"
   avatar           : "images/lhr_profile.jpg"
-  bio              : "Bytedance AI Lab"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
