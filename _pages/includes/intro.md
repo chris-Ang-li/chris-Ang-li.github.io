@@ -9,4 +9,4 @@ My research interest includes knowledge graph, large language model and their bi
 - Pretrained Model for Knowledge Graphs
 - Complex Query Answering over Knowledge Graphs
 
-If you are seeking any form of **academic cooperation**, please feel free to contact me with email: \[[luohaoran@bupt.edu.cn](mailto:luohaoran@bupt.edu.cn)\] or wechat: \[lhr1846205978\] .
+If you are seeking any form of **academic cooperation**, please feel free to email me with [luohaoran@bupt.edu.cn](mailto:luohaoran@bupt.edu.cn)\.
