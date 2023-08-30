@@ -23,7 +23,7 @@
 <div class='paper-box-text' markdown="1">
 
 [DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing](https://ojs.aaai.org/index.php/AAAI/article/view/25795) \\
-**Haoran Luo**, Haihong E, Yuhao Yang, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan\\
+**Haoran Luo**, Haihong E, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan\\
 \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25795/25567)\]\[[code](https://github.com/LHRLAB/DHGE)\]
 </div>
 </div>
