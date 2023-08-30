@@ -6,7 +6,7 @@ My research interest includes knowledge graph, large language model and their bi
 - Hierarchical Hyper-relational Knowledge Graph Schema Design
 - LLM-based Knowledge Graph Construction
 - LLM-based Semantic Parsing for Knowledge Base Question Answering
-- Pretrained Model for Knowledge Graphs
-- Complex Query Answering over Knowledge Graphs
+- Pretrained Model for Knowledge Graph Embedding
+- Complex Logical Query Answering over Knowledge Graphs
 
 If you are seeking any form of **academic cooperation**, please feel free to email me with [luohaoran@bupt.edu.cn](mailto:luohaoran@bupt.edu.cn)\.
