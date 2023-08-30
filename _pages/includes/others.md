@@ -2,7 +2,7 @@
 # 📖 Educations
 - *2021.09 - Present*, Ph.D., School of Computer Science, Beijing University of Posts and Telecommunications, Beijing.
 - *2017.09 - 2021.06*, Undergraduate, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing.
-- *2011.09 - 2017.06*, Northeast Yucai School, Shenyang.
+- *2011.09 - 2017.06*, Northeast Yucai School, Shenyang, Liaoning Province.
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
