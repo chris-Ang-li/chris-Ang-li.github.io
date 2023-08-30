@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoran Luo (罗浩然)"
+title                    : "Haoran Luo"
 description              : "Ph.D. Student from School of Computer Science, BUPT, Beijing."
 repository               : "LHRLAB/haoranluo.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Haoran Luo (罗浩然)"
+  name             : "Haoran Luo"
   avatar           : "images/lhr_profile.jpg"
   bio              : "Bytedance AI Lab"
   location         : "Beijing, China"
