@@ -8,7 +8,7 @@
 
 [HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level](https://aclanthology.org/2023.acl-long.450/) \\
 **Haoran Luo**, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin\\
-[paper](https://aclanthology.org/2023.acl-long.450.pdf)[code](https://github.com/LHRLAB/HAHE)
+\[[paper](https://aclanthology.org/2023.acl-long.450.pdf)\][code]\[(https://github.com/LHRLAB/HAHE)\]
 </div>
 </div>
 
@@ -17,7 +17,7 @@
 
 [HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level](https://aclanthology.org/2023.acl-long.450/) \\
 **Haoran Luo**, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin\\
-[paper](https://aclanthology.org/2023.acl-long.450.pdf)[code](https://github.com/LHRLAB/HAHE)
+\[[paper](https://aclanthology.org/2023.acl-long.450.pdf)\][code]\[(https://github.com/LHRLAB/HAHE)\]
 </div>
 </div>
 
@@ -26,7 +26,7 @@
 
 [HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level](https://aclanthology.org/2023.acl-long.450/) \\
 **Haoran Luo**, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin\\
-[paper](https://aclanthology.org/2023.acl-long.450.pdf)[code](https://github.com/LHRLAB/HAHE)
+\[[paper](https://aclanthology.org/2023.acl-long.450.pdf)\][code]\[(https://github.com/LHRLAB/HAHE)\]
 </div>
 </div>
 
