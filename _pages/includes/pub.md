@@ -1,7 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
