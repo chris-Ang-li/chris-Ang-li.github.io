@@ -3,4 +3,4 @@
 - *AAAI PC Member*: AAAI 2023, AAAI 2024
 - *EMNLP PC Member*: EMNLP 2022, EMNLP 2023
 - *NAACL PC Member*: NAACL 2024
-- *TKDE PC Member*: TKDE 2023
+- *TKDE Reviewr*: TKDE 2023
