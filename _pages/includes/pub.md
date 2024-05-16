@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 [ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models](https://arxiv.org/abs/2310.08975) \\
-**Haoran Luo**, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, Yifan Zhu, Anh Tuan Luu\\
+**Haoran Luo**, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, Yifan Zhu, Luu Anh Tuan\\
 \[[paper](https://arxiv.org/pdf/2310.08975)\]\[[code](https://github.com/LHRLAB/ChatKBQA)\]
 </div>
 </div>
