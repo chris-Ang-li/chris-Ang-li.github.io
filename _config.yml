@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoran Luo"
-description              : "Ph.D. Candidate major in Computer Science & Technology. Focusing on Knowledge Graph, NLP, & Large Language Model."
+title                    : "Haoran Luo\n罗浩然"
+description              : "Major in Computer Science & Technology. Focusing on Knowledge Graph, NLP, & Large Language Model."
 repository               : "LHRLAB/lhrlab.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "Haoran Luo"
   avatar           : "images/lhr_profile.jpg"
-  bio              : "School of Computer Science, BUPT"
+  bio              : "Ph.D. Student @ BUPT & NTU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
