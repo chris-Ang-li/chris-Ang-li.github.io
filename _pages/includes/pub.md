@@ -3,9 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ChatKBQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models](https://arxiv.org/abs/2310.08975) \\
+[ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models](https://aclanthology.org/2024.findings-acl.122/) \\
 **Haoran Luo**, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, Yifan Zhu, Luu Anh Tuan\\
-\[[paper](https://arxiv.org/pdf/2310.08975)\]\[[code](https://github.com/LHRLAB/ChatKBQA)\]
+\[[paper](https://aclanthology.org/2024.findings-acl.122.pdf)\]\[[code](https://github.com/LHRLAB/ChatKBQA)\]
 </div>
 </div>
 
