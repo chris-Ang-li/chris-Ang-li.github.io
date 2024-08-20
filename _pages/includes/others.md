@@ -18,4 +18,4 @@
 - *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
 - *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou. -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HOFE_czYersfLKGQKiWHIwxrOAQH38TF35RVQdAYNJU'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=HOFE_czYersfLKGQKiWHIwxrOAQH38TF35RVQdAYNJU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
