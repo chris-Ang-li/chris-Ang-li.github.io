@@ -12,24 +12,24 @@ repository               : "LHRLAB/lhrlab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : 283511074
+google_analytics_id      : #283511074
 
 # SEO Related
 google_site_verification : UsawEcchrM_9IapJkdvUmO5mwyXrsuaXCPPz5538mWA
-bing_site_verification   : #B5AA590E7B9C03956A6F7DEC0F776211
+bing_site_verification   : ED1FA53D8C53BF8001369CB0F1F99542
 baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Haoran Luo <br/> 罗浩然"
-  avatar           : "images/lhr_profile.jpg"
-  bio              : "Ph.D. Student @ <br/> BUPT & NTU"
-  location         : "Beijing, China"
+  name             : "Ang Li <br/> 李昂"
+  avatar           : "images/angli_profile.jpg"
+  bio              : "Ph.D. candidate, BUPT"
+  location         : #"Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Q9Nv9mcAAAAJ"
-  email            : "luohaoran@bupt.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Haoran-Luo-6"
+  googlescholar    : "https://scholar.google.com/citations?user=p2ohnUYAAAAJ&hl=en"
+  email            : "david.lee@bupt.edu.cn"
+  researchgate     : #"xxx"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LHRLAB"
+  github           : #"xxx"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"xxx"
   lastfm           :
-  linkedin         : #"rayeren"
-  dblp             : "https://dblp.org/pid/227/5902.html"
-  orcid            : "https://orcid.org/0000-0003-2727-0361"
+  linkedin         : #"xxx"
+  dblp             : #"xxx"
+  orcid            : "https://orcid.org/0000-0002-2316-4118"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # xxx
   steam            :
   tumblr           :
   twitter          : 
