@@ -6,16 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoran Luo"
-description              : "Major in Computer Science & Technology. Focusing on Knowledge Graph, NLP, & Large Language Model."
-repository               : "LHRLAB/lhrlab.github.io"
+title                    : "Ang Li"
+description              : "Major in Computer Science & Technology."
+repository               : "chris-Ang-li/chris-Ang-li.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : #283511074
 
 # SEO Related
-google_site_verification : UsawEcchrM_9IapJkdvUmO5mwyXrsuaXCPPz5538mWA
+google_site_verification : #UsawEcchrM_9IapJkdvUmO5mwyXrsuaXCPPz5538mWA
 bing_site_verification   : ED1FA53D8C53BF8001369CB0F1F99542
 baidu_site_verification  : #code-ZxFK3f4pfb
 
