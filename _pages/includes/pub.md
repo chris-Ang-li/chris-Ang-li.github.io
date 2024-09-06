@@ -1,40 +1,55 @@
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ChatKBQA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models](https://aclanthology.org/2024.findings-acl.122/) \\
-**Haoran Luo**, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin, Yifan Zhu, Luu Anh Tuan\\
-\[[paper](https://aclanthology.org/2024.findings-acl.122.pdf)\]\[[code](https://github.com/LHRLAB/ChatKBQA)\]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/HAHE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level](https://aclanthology.org/2023.acl-long.450/) \\
-**Haoran Luo**, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin\\
-\[[paper](https://aclanthology.org/2023.acl-long.450.pdf)\]\[[code](https://github.com/LHRLAB/HAHE)\]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/NQE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NQE: N-ary Query Embedding for Complex Query Answering over Hyper-Relational Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/25576) \\
-**Haoran Luo**, Haihong E, Yuhao Yang, Gengxian Zhou, Yikai Guo, Tianyu Yao, Zichen Tang, Xueyuan Lin, Kaiyang Wan\\
-\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25576/25348)\]\[[code](https://github.com/LHRLAB/NQE)\]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DHGE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing](https://ojs.aaai.org/index.php/AAAI/article/view/25795) \\
-**Haoran Luo**, Haihong E, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan\\
-\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25795/25567)\]\[[code](https://github.com/LHRLAB/DHGE)\]
-</div>
-</div>
-
-<!-- - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
-- ``NAACL 2022`` [A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation](), Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, **Yi Ren**, Tao Qin, Tie-Yan Liu -->
+<h2>Selected Articles</h2>
+<ol start=1>
+  <li>
+    <p><font color="blue">[TKDE '24]</font> Structures Aware Fine-grained Contrastive Adversarial Hashing for Cross-media Retrieval [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416208">pdf</a>] <font color="red">(CCF A, full paper)</font>
+      <br>
+      Meiyu Liang, Yawen Li, Yang Yu, Xiaowen Cao, Zhe Xue, <b>Ang Li</b>, Kangkang Lu.<br>
+      <i>IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024.</i> <br>
+    </p>
+   </li>
+  <li>
+    <p><font color="blue">[WWWJ '24]</font> Federated Learning for Supervised Cross-Modal Retrieval [<a href="../files/WWW24_Federated learning for supervised cross-modal retrieval.pdf">pdf</a>] <font color="red">(CCF B, full paper)</font>
+      <br>
+      <b>Ang Li</b>, Yawen Li, Yingxia Shao.<br>
+      <i>World Wide Web (WWW) 2024.</i> <br>
+    </p>
+  </li>
+  <li>
+    <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF A, full paper)</font>
+      <br>
+      <b>Ang Li</b>, Yawen Li, Yingxia Shao, Bingyan Liu.<br>
+      <i>IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.</i> <br>
+    </p>
+   </li>
+  <li>
+    <p><font color="blue">[JCRD '23]</font> Scientific and Technological Information Oriented Semantics-Adversarial and Media-Adversarial Based Cross-Media Retrieval Method (In Chinese) [<a href="https://kns.cnki.net/kcms2/article/abstract?v=GygzKunDVUcjXCaUAXtrnmWBm2Bh2RNWYApvbSCqcJQLB2C1L1pytml4kvjUYSzjTsoIGQ8WeQR6SWM6xgiMhjByYIJSGj9tp0RA9iP7Ub9f5Lx08-I_yYQ74MfTp_0Ebjjz3Tqf915pp8HY3a2_b_QW4nrGmrbowalhkuapgkopAgyYwLEJ8OUihPS9nP_FVgC91inNX8M=&uniplatform=NZKPT&language=CHS">pdf</a>] <font color="red">(中文CCF A, full paper)</font>
+      <br>
+      <b>Ang Li</b>, Junping Du, Feifei Kou, Zhe Xue, Xin Xu, Mingying Xu, Yang Jiang.<br>
+      <i>Journal of Computer Research and Development 2023.</i> <br>
+    </p>
+   </li>
+    <li>
+    <p><font color="blue">[Neurocomputing '23]</font> Cluster-Aware Multiplex Infomax for Unsupervised Graph Representation Learning [<a href="../files/nc23_Cluster-aware multiplex InfoMax for unsupervised graph representation learning.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+      <br>
+      Xin Xu, Junping Du, Jie Song, Zhe Xue, <b>Ang Li</b>, Zeli Guan.<br>
+      <i>Neurocomputing 2023.</i> <br>
+    </p>
+   </li>
+  <li>
+    <p><font color="blue">[Neurocomputing '22]</font> Cross-Media Retrieval of Scientific and Technological Information based on Multi-Feature Fusion [<a href="../files/nc22_Cross-media retrieval of scientific and technological information based on multi-feature fusion.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+      <br>
+      Yang Jiang, Junping Du, Zhe Xue, <b>Ang Li</b>.<br>
+      <i>Neurocomputing 2022.</i> <br>
+    </p>
+   </li>
+  <li>
+    <p><font color="blue">[JOS '22]</font> Construction Method of Intellectual-property-oriented Scientific and Technological Resources Portrait (In Chinese) [<a href="https://www.jos.org.cn/josen/article/abstract/6483">pdf</a>] <font color="red">(中文CCF A, full paper)</font>
+      <br>
+      Jiaxin Yang, Junping Du, Yingxia Shao, <b>Ang Li</b>, Junqing Xi</b>.<br>
+      <i>Journal of Software 2022.</i> <br>
+    </p>
+   </li>
+</ol>
