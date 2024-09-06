@@ -1,4 +1,4 @@
-# 📝 Teaching
+# 🌱 Teaching
 
 <ul>
     <li>Teaching Assistant, 3132111030: <b>Principle of Database System</b>, Beijing University of Posts and Telecommunications (Spring 2024)</li>
