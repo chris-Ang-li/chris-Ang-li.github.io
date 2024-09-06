@@ -48,7 +48,7 @@
   <li>
     <p><font color="blue">[JOS '22]</font> Construction Method of Intellectual-property-oriented Scientific and Technological Resources Portrait (In Chinese) [<a href="https://www.jos.org.cn/josen/article/abstract/6483">pdf</a>] <font color="red">(中文CCF A, full paper)</font>
       <br>
-      Jiaxin Yang, Junping Du, Yingxia Shao, <b>Ang Li</b>, Junqing Xi</b>.<br>
+      Jiaxin Yang, Junping Du, Yingxia Shao, <b>Ang Li</b>, Junqing Xi.<br>
       <i>Journal of Software 2022.</i> <br>
     </p>
    </li>
