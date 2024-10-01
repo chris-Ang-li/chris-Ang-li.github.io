@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ang Li"
-description              : "Major in Computer Science & Technology."
+description              : #"Major in Computer Science & Technology."
 repository               : "chris-Ang-li/chris-Ang-li.github.io"
 google_scholar_stats_use_cdn : true
 
