@@ -18,6 +18,13 @@
     </p>
   </li>
   <li>
+    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="../files/nc24_RFCSC- Communication efficient reinforcement federated learning with dynamic client selection and adaptive gradient compression.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+      <br>
+      Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, and Feifei Kou.<br>
+      <i>Neurocomputing 2024.</i> <br>
+    </p>
+  </li>
+  <li>
     <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF A, full paper)</font>
       <br>
       <b>Ang Li</b>, Yawen Li, Yingxia Shao, Bingyan Liu.<br>
