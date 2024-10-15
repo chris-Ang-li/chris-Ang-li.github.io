@@ -18,7 +18,7 @@
     </p>
   </li>
   <li>
-    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="../files/nc24_RFCSC- Communication efficient reinforcement federated learning with dynamic client selection and adaptive gradient compression2.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="../files/nc24_RFCSC- Communication efficient reinforcement federated learning with dynamic client selection and adaptive gradient compression.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, and Feifei Kou.<br>
       <i>Neurocomputing 2024.</i> <br>
