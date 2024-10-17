@@ -20,7 +20,11 @@ redirect_from:
 </span>
 
 <!-- End of StatCounter Code for Default Guide -->
-         
+
+
+<a href="https://info.flagcounter.com/hVUU"><img src="https://s01.flagcounter.com/count2/hVUU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+  
 		 <div class="copywrite">
 		 <a href="http://info.flagcounter.com/jqBO"><img src="http://s01.flagcounter.com/count/jqBO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_8/viewers_0/labels_0/pageviews_0/flags_0/" alt="Flag Counter" border="0"></a>
 			<br><br>
