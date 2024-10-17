@@ -15,21 +15,10 @@ redirect_from:
 {% include_relative includes/honors.md %}
 
 <!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=11487137; 
-var sc_invisible=1; 
-var sc_security="94648ebe"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="web counter"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11487137/0/94648ebe/1/" alt="web
-counter"></a></div></noscript>
+<span id="busuanzi_container_site_pv">    
+	本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+
 <!-- End of StatCounter Code for Default Guide -->
          
 		 <div class="copywrite">
