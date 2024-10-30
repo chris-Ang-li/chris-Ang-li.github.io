@@ -11,14 +11,14 @@
     </p>
    </li>
   <li>
-    <p><font color="blue">[WWWJ '24]</font> Federated Learning for Supervised Cross-Modal Retrieval [<a href="../files/WWW24_Federated learning for supervised cross-modal retrieval.pdf">pdf</a>] <font color="red">(CCF B, full paper)</font>
+    <p><font color="blue">[WWWJ '24]</font> Federated Learning for Supervised Cross-Modal Retrieval [<a href="https://link.springer.com/article/10.1007/s11280-024-01249-4">pdf</a>] <font color="red">(CCF B, full paper)</font>
       <br>
       <b>Ang Li</b>, Yawen Li, Yingxia Shao.<br>
       <i>World Wide Web (WWW) 2024.</i> <br>
     </p>
   </li>
   <li>
-    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="../files/nc24_RFCSC-Communication efficient reinforcement federated learning with dynamic client selection and adaptive gradient compression.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, and Feifei Kou.<br>
       <i>Neurocomputing 2024.</i> <br>
@@ -39,14 +39,14 @@
     </p>
    </li>
     <li>
-    <p><font color="blue">[Neurocomputing '23]</font> Cluster-Aware Multiplex Infomax for Unsupervised Graph Representation Learning [<a href="../files/nc23_Cluster-aware multiplex InfoMax for unsupervised graph representation learning.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+    <p><font color="blue">[Neurocomputing '23]</font> Cluster-Aware Multiplex Infomax for Unsupervised Graph Representation Learning [<a href="https://www.sciencedirect.com/science/article/pii/S0925231223001790">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Xin Xu, Junping Du, Jie Song, Zhe Xue, <b>Ang Li</b>, Zeli Guan.<br>
       <i>Neurocomputing 2023.</i> <br>
     </p>
    </li>
   <li>
-    <p><font color="blue">[Neurocomputing '22]</font> Cross-Media Retrieval of Scientific and Technological Information based on Multi-Feature Fusion [<a href="../files/nc22_Cross-media retrieval of scientific and technological information based on multi-feature fusion.pdf">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+    <p><font color="blue">[Neurocomputing '22]</font> Cross-Media Retrieval of Scientific and Technological Information based on Multi-Feature Fusion [<a href="https://www.sciencedirect.com/science/article/pii/S0925231222007901">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Yang Jiang, Junping Du, Zhe Xue, <b>Ang Li</b>.<br>
       <i>Neurocomputing 2022.</i> <br>
