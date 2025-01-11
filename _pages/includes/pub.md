@@ -4,6 +4,13 @@
 <h2>Selected Articles</h2>
 <ol start=1>
   <li>
+    <p><font color="blue">[Neurocomputing '25]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
+      <br>
+      Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, and Feifei Kou.<br>
+      <i>Neurocomputing 2025.</i> <br>
+    </p>
+  </li>
+  <li>
     <p><font color="blue">[TKDE '24]</font> Structures Aware Fine-grained Contrastive Adversarial Hashing for Cross-media Retrieval [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416208">pdf</a>] <font color="red">(CCF A, full paper)</font>
       <br>
       Meiyu Liang, Yawen Li, Yang Yu, Xiaowen Cao, Zhe Xue, <b>Ang Li</b>, Kangkang Lu.<br>
@@ -15,13 +22,6 @@
       <br>
       <b>Ang Li</b>, Yawen Li, Yingxia Shao.<br>
       <i>World Wide Web (WWW) 2024.</i> <br>
-    </p>
-  </li>
-  <li>
-    <p><font color="blue">[Neurocomputing '24]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
-      <br>
-      Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, and Feifei Kou.<br>
-      <i>Neurocomputing 2024.</i> <br>
     </p>
   </li>
   <li>
