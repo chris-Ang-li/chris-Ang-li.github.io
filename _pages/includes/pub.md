@@ -6,7 +6,7 @@
   <li>
     <p><font color="blue">[FCS '25]</font> FedSIN: Information Network Representation based on Federated Self-adaptive Learning [<a href="https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-40529-8">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
-      Ang Li, Yawen Li, Zhe Xue.<br>
+      <b>Ang Li</b>, Yawen Li, Zhe Xue.<br>
       <i>Frontiers of Computer Science 2025.</i> <br>
     </p>
   </li>
