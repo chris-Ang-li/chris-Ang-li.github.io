@@ -11,6 +11,13 @@
     </p>
   </li>
   <li>
+    <p><font color="blue">[AAAI '25]</font> Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning (accepted) <font color="red">(CCF-A, full paper)</font>
+      <br>
+      Jia Wang, Yawen Li, Yingxia Shao, Zhe Xue, Zeli Guan, <b>Ang Li</b>, Guanhua Ye.<br>
+      <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i> <br>
+    </p>
+  </li>
+  <li>
     <p><font color="blue">[Neurocomputing '25]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, Feifei Kou.<br>
