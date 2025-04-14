@@ -11,7 +11,7 @@
     </p>
   </li>
   <li>
-    <p><font color="blue">[AAAI '25]</font> Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning (accepted) <font color="red">(CCF-A, full paper)</font>
+    <p><font color="blue">[AAAI '25]</font> Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35409">pdf</a>]  <font color="red">(CCF-A, full paper)</font>
       <br>
       Jia Wang, Yawen Li, Yingxia Shao, Zhe Xue, Zeli Guan, <b>Ang Li</b>, Guanhua Ye.<br>
       <i>AAAI Conference on Artificial Intelligence (AAAI) 2025.</i> <br>
