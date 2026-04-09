@@ -1,8 +1,4 @@
 # 💼 Services
-- *Conference Reviewer*: NeurIPS 2024, ICLR 2025, ACL 2023, ACL 2024, AAAI 2023, AAAI 2024, AAAI 2025, EMNLP 2022, EMNLP 2023, EMNLP 2024, NAACL 2024, CIKM 2024, NLPCC 2024
-- *Journal Reviewer*: IEEE TKDE 2023, IEEE TKDE 2024, IPM 2024, KBS 2024
+- *Conference Reviewer*: ICML 2026
+- *Journal Reviewer*: ACM TOIS
 
-<!-- - *AAAI PC Member*: AAAI 2023, AAAI 2024
-- *EMNLP PC Member*: EMNLP 2022, EMNLP 2023
-- *NAACL PC Member*: NAACL 2024
-- *TKDE Reviewr*: TKDE 2023 -->
