@@ -80,4 +80,11 @@
       <i>Journal of Software 2022.</i> <br>
     </p>
    </li>
+  <li>
+    <p><font color="blue">[CAAI TIS '22]</font> Semantic Similarity Computing for Scientific and Technological Conferences (In Chinese) [<a href="https://kns.cnki.net/kcms2/article/abstract?v=y_SiIdm5mquoP6qfa3K2wBe8TcPKvndRh-E7J5KavdSh2BVbwvOxR8nhxOfkoJ1h3rOnmDy1rb-xxP--aopQtlXDMUZBeH6AkoYyB6lHX-JFaY7i46b-IfvhPKFv5rS47_z-OEHaWILIM9Udnx0daQ730TgwygPHaoJrRCEv3GHvmWU52E4hcA==&uniplatform=NZKPT&language=CHS">pdf</a>] <font color="red">(清华-B, full paper)</font>
+      <br>
+      Runyu Yu, Yawen Li, <b>Ang Li</b>.<br>
+      <i>CAAI Transactions on Intelligent Systems 2022.</i> <br>
+    </p>
+  </li>
 </ol>
