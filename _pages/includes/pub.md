@@ -39,14 +39,14 @@
     </p>
   </li>
   <li>
-    <p><font color="blue">[CAAI TIS '24]</font> Client Dynamic Sampling Optimization of Efficient Reinforcement Federated Learning based on Data Quality Assessment (In Chinese) [<a href="https://kns.cnki.net/kcms2/article/abstract?v=y_SiIdm5mquD0FPKixc8XmpbGtMGpydwEDSulJU9FBMbCssRntyRRfohKrEdSODvvTtoQ71MKRslgCOe1lG-GK6_4jG4hfBzJvcVx-umZBfcoLyEQYJGEflzPSn1iuhs04vd-8XWckww-IbbNERajYej43ghUyCK2ThfIhyoX8nEDShUnMseSA==&uniplatform=NZKPT&language=CHS">pdf</a>] <font color="red">(CAAI-B, full paper)</font>
+    <p><font color="blue">[CAAI TIS '24]</font> Client Dynamic Sampling Optimization of Efficient Reinforcement Federated Learning based on Data Quality Assessment (In Chinese) [<a href="https://kns.cnki.net/kcms2/article/abstract?v=y_SiIdm5mquD0FPKixc8XmpbGtMGpydwEDSulJU9FBMbCssRntyRRfohKrEdSODvvTtoQ71MKRslgCOe1lG-GK6_4jG4hfBzJvcVx-umZBfcoLyEQYJGEflzPSn1iuhs04vd-8XWckww-IbbNERajYej43ghUyCK2ThfIhyoX8nEDShUnMseSA==&uniplatform=NZKPT&language=CHS">pdf</a>] <font color="red">(CAAI-A, full paper)</font>
       <br>
       Zehua Zhao, Meiyu Liang, Zhe Xue, <b>Ang Li</b>, Min Zhang.<br>
       <i>CAAI Transactions on Intelligent Systems 2024.</i> <br>
     </p>
   </li>
   <li>
-    <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF-A, full paper)</font>
+    <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF-A/CAAI-A, full paper)</font>
       <br>
       <b>Ang Li</b>, Yawen Li, Yingxia Shao, Bingyan Liu.<br>
       <i>IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.</i> <br>
