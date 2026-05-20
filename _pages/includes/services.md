@@ -1,4 +1,4 @@
 # 💼 Academic Services
-- *Conference Reviewer*: ICML 2026
+- *Conference Reviewer*: ICML 2026, NeurIPS 2026
 - *Journal Reviewer*: ACM TOIS
 
