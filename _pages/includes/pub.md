@@ -4,28 +4,28 @@
 <h2>Selected Articles</h2>
 <ol start=1>
   <li>
-    <p><font color="blue">[FCS '26]</font> FedSIN: Information Network Representation based on Federated Self-adaptive Learning [<a href="https://link.springer.com/article/10.1007/s11704-025-40529-8">pdf</a>] <font color="red">(JCR-Q1/CCF-B/CAAI-B, full paper)</font>
+    <p><font color="blue">[FCS '26]</font> FedSIN: Information Network Representation based on Federated Self-adaptive Learning [<a href="https://link.springer.com/article/10.1007/s11704-025-40529-8">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       <b>Ang Li</b>, Yawen Li, Zhe Xue.<br>
       <i>Frontiers of Computer Science 2026.</i> <br>
     </p>
   </li>
   <li>
-    <p><font color="blue">[AAAI '25]</font> Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35409">pdf</a>]  <font color="red">(CCF-A/CAAI-A, full paper)</font>
+    <p><font color="blue">[AAAI '25]</font> Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/35409">pdf</a>]  <font color="red">(CCF-A, full paper)</font>
       <br>
       Jia Wang, Yawen Li, Yingxia Shao, Zhe Xue, Zeli Guan, <b>Ang Li</b>, Guanhua Ye.<br>
       <i>AAAI 2025 (Accept Rate: 23.4%).</i> <br>
     </p>
   </li>
   <li>
-    <p><font color="blue">[Neurocomputing '25]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1/CAAI-B, full paper)</font>
+    <p><font color="blue">[Neurocomputing '25]</font> RFCSC: Communication Efficient Reinforcement Federated Learning with Dynamic Client Selection and Adaptive Gradient Compression [<a href="https://www.sciencedirect.com/science/article/pii/S0925231224014437">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Zhenhui Pan, Yawen Li, Zeli Guan, Meiyu Liang, <b>Ang Li</b>, Jia Wang, Feifei Kou.<br>
       <i>Neurocomputing 2025.</i> <br>
     </p>
   </li>
   <li>
-    <p><font color="blue">[TKDE '24]</font> Structures Aware Fine-grained Contrastive Adversarial Hashing for Cross-media Retrieval [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416208">pdf</a>] <font color="red">(CCF-A/CAAI-A, full paper)</font>
+    <p><font color="blue">[TKDE '24]</font> Structures Aware Fine-grained Contrastive Adversarial Hashing for Cross-media Retrieval [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416208">pdf</a>] <font color="red">(CCF-A, full paper)</font>
       <br>
       Meiyu Liang, Yawen Li, Yang Yu, Xiaowen Cao, Zhe Xue, <b>Ang Li</b>, Kangkang Lu.<br>
       <i>IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024.</i> <br>
@@ -46,7 +46,7 @@
     </p>
   </li>
   <li>
-    <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF-A/CAAI-A, full paper)</font>
+    <p><font color="blue">[TKDE '23]</font> Multi-view Scholar Clustering with Dynamic Interest Tracking [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050831">pdf</a>] <font color="red">(CCF-A, full paper)</font>
       <br>
       <b>Ang Li</b>, Yawen Li, Yingxia Shao, Bingyan Liu.<br>
       <i>IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.</i> <br>
@@ -67,14 +67,14 @@
     </p>
    </li>
   <li>
-    <p><font color="blue">[Neurocomputing '22]</font> Cross-Media Retrieval of Scientific and Technological Information based on Multi-Feature Fusion [<a href="https://www.sciencedirect.com/science/article/pii/S0925231222007901">pdf</a>] <font color="red">(JCR-Q1/CAAI-B, full paper)</font>
+    <p><font color="blue">[Neurocomputing '22]</font> Cross-Media Retrieval of Scientific and Technological Information based on Multi-Feature Fusion [<a href="https://www.sciencedirect.com/science/article/pii/S0925231222007901">pdf</a>] <font color="red">(JCR-Q1, full paper)</font>
       <br>
       Yang Jiang, Junping Du, Zhe Xue, <b>Ang Li</b>.<br>
       <i>Neurocomputing 2022.</i> <br>
     </p>
    </li>
   <li>
-    <p><font color="blue">[JOS '22]</font> Construction Method of Intellectual-property-oriented Scientific and Technological Resources Portrait (In Chinese) [<a href="https://www.jos.org.cn/josen/article/abstract/6483">pdf</a>] <font color="red">(中文CCF-A/CAAI-A, full paper)</font>
+    <p><font color="blue">[JOS '22]</font> Construction Method of Intellectual-property-oriented Scientific and Technological Resources Portrait (In Chinese) [<a href="https://www.jos.org.cn/josen/article/abstract/6483">pdf</a>] <font color="red">(中文CCF-A, full paper)</font>
       <br>
       Jiaxin Yang, Junping Du, Yingxia Shao, <b>Ang Li</b>, Junqing Xi.<br>
       <i>Journal of Software 2022.</i> <br>
